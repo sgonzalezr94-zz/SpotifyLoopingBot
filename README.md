@@ -11,7 +11,7 @@ To install the Python language bindings for Selenium WebDriver, we will use [pip
 ```
 pip install selenium
 ```
-right after it is installed, you must download your favorite browser web driver. Here I leave a list for Chrome and Firefox web drivers.
+right after it is installed, you must download your favorite browser web driver. Here I leave a list for Chrome and Firefox web drivers, keep in mind you must download one that works with the current version of your browser.
 
 * [Chrome WebDrivers](https://chromedriver.chromium.org/downloads).
 * [Firefox WebDrivers](https://github.com/mozilla/geckodriver/releases) (right from Mozilla's repository).
@@ -38,6 +38,8 @@ Anyway, to execute this project simply run ```spotify.bot``` on the command prom
 ```python
 python3 spotifybot.py
 ```
+You must leave the mouse pointer on the web browser launched by the bot, don't alt+tab or switch windows right after you execute the bot. Wait until you start listening your artist's content, then you can switch or minimize the window.
+
 ## Authors
 
 * [**Sebastián González Ramírez**](https://github.com/sgonzalezr94) 
