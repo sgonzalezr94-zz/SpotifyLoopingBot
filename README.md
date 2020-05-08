@@ -5,7 +5,7 @@ API-Less Python3 Spotify bot which reproduces an Artist's songs list or album fo
 ## Prerequisites
 
 This project was built with [Python3](https://www.python.org/), get the latest version from [here](https://www.python.org/downloads/).
-In order to run succesfully this project you'll need to install  [Selenium](https://www.selenium.dev/) python language bindings for it's Webdriver. Also, you must have an account registered in [Spotify](https://www.spotify.com/). Without these requirements the project won't run.
+In order to run succesfully this project you'll need to install  [Selenium](https://www.selenium.dev/) python language bindings for its Webdriver. Also, you must have an account registered in [Spotify](https://www.spotify.com/). Without these requirements the project won't run.
 
 To install the Python language bindings for Selenium WebDriver, we will use [pip](https://pypi.org/project/pip/). You must run this on the command prompt to install it 
 ```
