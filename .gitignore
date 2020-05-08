@@ -1,0 +1,5 @@
+.vscode
+.DS_STORE
+*.pyc
+botconfig.py
+Resources/
