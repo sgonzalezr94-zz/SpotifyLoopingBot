@@ -3,3 +3,4 @@
 *.pyc
 botconfig.py
 Resources/
+__pycache__
