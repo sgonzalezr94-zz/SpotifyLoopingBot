@@ -1,7 +1,7 @@
 
 # Coded by Sebastian Gonzalez Ramirez
 # email to software@sgonzalezr.com
-
+# XD
 from selenium import webdriver
 import time
 import sys
